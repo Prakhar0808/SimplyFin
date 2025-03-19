@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "491516786758",
+    "firebase_url": "https://ocrfintechapp-default-rtdb.firebaseio.com",
+    "project_id": "ocrfintechapp",
+    "storage_bucket": "ocrfintechapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491516786758:android:5af6307956f92ec9b53247",
+        "android_client_info": {
+          "package_name": "com.example.fintechapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491516786758-hf6cmg4s3q1cmlf0c3cvtebnu51l6mrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fintechapp",
+            "certificate_hash": "e3a1c6d6084b2884a9dcb5e260e8eadce46b258a"
+          }
+        },
+        {
+          "client_id": "491516786758-3sn6id235blnpa14rd2hupkmabkqa2j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYbHc5WBZEbtYTMJ0GE9TwMHdGBVBCT04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491516786758-3sn6id235blnpa14rd2hupkmabkqa2j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
