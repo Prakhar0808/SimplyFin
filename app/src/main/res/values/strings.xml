@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimplyFin</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="default_web_client_id">491516786758-3sn6id235blnpa14rd2hupkmabkqa2j3.apps.googleusercontent.com</string>
+</resources>
